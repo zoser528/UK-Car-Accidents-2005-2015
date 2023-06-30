@@ -4,10 +4,10 @@ you can get a report about our Analysis and machine learning models
 
 and you can find the presentation to present our work (https://prezi.com/view/WtulTf5hlXYtHNWe09SF/)
 
-You can find our datasets from (https://www.kaggle.com/datasets/silicon99/dft-accident-data)
+You can find our datasets at (https://www.kaggle.com/datasets/silicon99/dft-accident-data)
 
-thank you for your watching
+Thank you for your interest and follow-up on our project
 
 Ahmed Hassan 
 Hiba Shakir
-Fareda Mustafa
+Farida Mustafa
