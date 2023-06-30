@@ -8,6 +8,8 @@ You can find our datasets at (https://www.kaggle.com/datasets/silicon99/dft-acci
 
 Thank you for your interest and follow-up on our project
 
+Don't forget to follow me on Linkedin (https://www.linkedin.com/in/ahmed-hassan-564b95229/)
+
 Ahmed Hassan 
 Hiba Shakir
 Farida Mustafa
